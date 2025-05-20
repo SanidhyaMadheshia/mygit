@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/mygit.dir/src/main.cpp.o CMakeFiles/mygit.dir/src/init.cpp.o -o mygit 

@@ -1,0 +1,3 @@
+/home/sanidhya/test/gitwalibc/test/build/CMakeFiles/mygit.dir
+/home/sanidhya/test/gitwalibc/test/build/CMakeFiles/edit_cache.dir
+/home/sanidhya/test/gitwalibc/test/build/CMakeFiles/rebuild_cache.dir
